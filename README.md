@@ -13,7 +13,7 @@ Our intelligent system translates these questions into accurate SQL queries and 
 1. Clone this repository:
 
     ```bash
-    git clone [https://github.com/yourusername/your-repository.git](https://github.com/BlackReaper0/Chat-with-Database.git)
+    git clone https://github.com/BlackReaper0/Chat-with-Database.git
     ```
 
 2. Navigate to the project directory:
